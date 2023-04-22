@@ -1,0 +1,65 @@
+/*give the css code*/
+
+#heading0{
+	text-align: center;
+	border:solid #000 1px;
+}
+	
+#div1{
+	width:30%;
+	height: 100%;
+	float: left;
+	margin-left: 130px;
+
+}
+#div2{
+	width: 50%;
+	height: 100%;
+    float: right;
+    margin-right: 125px;
+   
+}
+#form0{
+	background-color: #87CB00;
+	border: #fff solid;
+	width: 90%;
+	height: 100%;
+}
+#tabledata{
+	width:40%;
+	border: solid #fff;
+	margin: 20px;
+}
+.tabledata0{
+	width: 30%;
+	height: 20%;
+	border: solid #fff 2px;
+	border-radius: 5px;
+	background-color:#39BDD6 ;
+}
+.travel,.personal,.activites{
+	width: 100%;
+	height: 20%;
+	color: red;
+    background-color: #39BDD6;
+    border: solid #fff;
+    border-radius: 5px;
+}
+#mainheading{
+	width: 95%;
+	height: 40%;
+	border-radius: 5px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 20px;
+	color: red;
+	background-color: #fff;
+}
+#click{
+	
+	color: red;
+}
+#but{
+	color: red;
+	margin-left: 20px;
+}
