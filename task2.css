@@ -1,0 +1,35 @@
+/* i give the he css coding in table*/
+#tbl{
+	width: 27%;
+	height: 50%;
+	background: #000;
+	color: #fff;
+	border: #AACAF7 solid;
+	padding: 2px;
+	text-align: center;
+	position: relative;
+}
+#tables{
+	border:#FFFFFF solid ;
+	background-color: #FFFCA8;
+	color: #000;
+}
+.row{
+	border: #FFFFFF solid;
+	
+}
+.h{
+	border: #ffffff solid;
+	text-align: center;
+}
+#tj{
+	color:#FFC11B ;
+	width: 27%;
+	height: 10%;
+	background-color: #fff;
+	text-align: center;
+	text-shadow: 4px 8px 7px red;
+	border: grey solid;
+	background-color: yellow;
+
+}

@@ -1,0 +1,57 @@
+/* i give css code task7 html */
+body{
+
+}
+#div1{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	border: solid red 4px;
+	box-shadow: 0 0 5px red,0 0 10px red,0 0 15px red,0 0 20px red;
+	
+}/*..div1 section*/
+img{
+	width: 20%;
+	height:10%;
+}/*image section given css ..*/
+h4{
+	width: 80%;
+	height: 20%;
+	border: solid #fff 1px ;
+	color: red;
+	text-align: center;
+	margin: 5px;
+	margin-left:15px;
+	background-color: #fff;
+	border-radius: 5px;
+}
+#div2{
+	width: 35%;
+	height: 90%;
+	background-color: #577714;
+}/*div2 sevtionhe  given the css */
+td{
+border:solid #fff 2px;
+background-color:#EF9951;
+border-radius: 3px;
+width: 33%; 
+}/*all table data sections given the css*/
+.someinputs{
+	width: 98%;
+}/*some  inputs given class select tag in only text,tel,email inputs tag given css*/
+form{
+    border: solid 3px #fff;
+    width: 98%;
+    /*margin-left: 20px;*/
+
+	}/*form given  css..*/
+button{
+	width: 40%;
+	height: 20%;
+	border: solid #fff 1px ;
+	color: red;
+	text-align: center;
+	margin: 5px;
+	margin-top: 5px;
+	background-color: #fff;
+}

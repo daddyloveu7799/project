@@ -1,0 +1,71 @@
+/*  I GIVEN THE CSS CODE FOR TASK5*/
+body{
+	background-color:#706A6A;
+	display: flex;
+}/*body section i give the color*/
+div{
+   background-color:#3B6583;
+   width: 50%;
+   height: 50%;
+   margin-left:30px;
+   flex-wrap: wrap;
+   align-items: center;
+   /*display: flex;*/
+}/*div section give css code*/ 
+h1{
+
+	width: 50%;
+	height: 0%;
+	color: red;
+	border: solid #fff 1px;
+	text-align: center;
+	background-color: #fff;
+	border-radius: 5px;
+	flex-wrap: wrap;
+	margin-left: 150px;
+	margin-top:10px;
+}
+h4{
+	width: 50%;
+	height: 20%;
+	color: red;
+	border: solid #fff 1px;
+	text-align: center;
+	background-color: #fff;
+	border-radius: 5px;
+	flex-wrap: wrap;
+	margin-left: 150px;
+	margin-top:10px;
+	/*align-items: : center;*/
+
+
+}/*h4 tag given css code*/
+img{
+	width: 50%;
+	height: 100%;
+	flex-wrap: wrap;
+	margin-right: -30px; 
+}
+form{
+   border: solid 3px #fff;
+   width: 90%;
+   height: 50%;
+   flex-wrap: wrap;
+   margin-left: 10px;
+}/*in form section given the css code*/
+td{
+   width: 50%;
+   height: 20%;
+   border: solid #fff 2px;
+   border-radius: 3px;
+   flex-wrap: wrap;
+   color: #fff;
+}/*html in table in td section given css code*/
+a{
+	color: red;
+
+	}/*html in table some "a" tags given so in given css code*/
+.someinputs{
+	width: 98%;
+	height: 100%;
+}
